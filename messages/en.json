@@ -1,0 +1,240 @@
+{
+  "Header": {
+    "download": "Download Yoopi"
+  },
+  "Footer": {
+    "terms": "Terms of Use",
+    "privacy": "Privacy Policy",
+    "support": "Support",
+    "copyright": "© Yoopi 2025"
+  },
+  "Hero": {
+    "title1": "Travel more.",
+    "title2": "Pay less.",
+    "description": "We scan flights from your airports 24/7 and alert you when prices drop by 30% or more. Book in one click.",
+    "appStore": "Download on the App Store",
+    "googlePlay": "Get it on Google Play"
+  },
+  "Features": {
+    "feature1": {
+      "title": "Up to -80% on your flights",
+      "description": "We track price drops continuously. As soon as the fare drops, you're the first to know."
+    },
+    "feature2": {
+      "title": "Instant alerts",
+      "description": "Push notification as soon as a flight drops below -30%. Before the deal disappears."
+    },
+    "feature3": {
+      "title": "All prices in one place",
+      "description": "We compare fares from the biggest platforms in real time. Get the best deal without opening 10 sites."
+    }
+  },
+  "Metadata": {
+    "home": {
+      "title": "Yoopi - Travel more. Pay less.",
+      "description": "Yoopi scans flights from your airports 24/7 and alerts you when prices drop. Book in one click.",
+      "keywords": "cheap flights, flight alerts, travel deals, plane tickets, flight promotions"
+    },
+    "terms": {
+      "title": "Terms of Use - Yoopi",
+      "description": "Terms of Use for the Yoopi application"
+    },
+    "privacy": {
+      "title": "Privacy Policy - Yoopi",
+      "description": "Privacy Policy for the Yoopi application"
+    },
+    "support": {
+      "title": "Support - Yoopi",
+      "description": "Need help with Yoopi? Check our FAQ or contact us."
+    }
+  },
+  "Terms": {
+    "title": "Terms of Use",
+    "lastUpdate": "Last updated: January 1, 2025",
+    "section1": {
+      "title": "1. Acceptance of Terms",
+      "content": "By downloading, installing, or using the Yoopi application (\"the Application\"), you agree to be bound by these Terms of Use (\"Terms\"). If you do not accept these terms, please do not use the Application."
+    },
+    "section2": {
+      "title": "2. Service Description",
+      "intro": "Yoopi is a mobile application that allows users to:",
+      "items": [
+        "Receive alerts on flight price drops",
+        "Browse discounted flight offers",
+        "Access booking links from third-party airlines"
+      ],
+      "content": "Yoopi acts solely as an information intermediary and does not directly sell airline tickets. All bookings are made directly with partner airlines or travel agencies."
+    },
+    "section3": {
+      "title": "3. Registration and User Account",
+      "intro": "To use certain features of the Application, you must create an account. You agree to:",
+      "items": [
+        "Provide accurate and complete information",
+        "Maintain the confidentiality of your login credentials",
+        "Notify us immediately of any unauthorized use of your account"
+      ]
+    },
+    "section4": {
+      "title": "4. Acceptable Use",
+      "intro": "You agree not to:",
+      "items": [
+        "Use the Application for illegal purposes",
+        "Attempt to bypass the Application's security measures",
+        "Collect data from other users without their consent",
+        "Use bots or automated scripts to access the Application"
+      ]
+    },
+    "section5": {
+      "title": "5. Intellectual Property",
+      "content": "The Application and all its content (text, graphics, logos, icons, images, audio clips, digital downloads) are the property of Yoopi or its licensors and are protected by intellectual property laws."
+    },
+    "section6": {
+      "title": "6. Limitation of Liability",
+      "content1": "Yoopi strives to provide accurate information about flight prices. However, we do not guarantee the accuracy, completeness, or timeliness of the information displayed. Prices and availability may vary and are subject to change by airlines without notice.",
+      "content2": "Yoopi shall not be liable for any direct, indirect, incidental, or consequential damages resulting from the use of the Application."
+    },
+    "section7": {
+      "title": "7. Changes to Terms",
+      "content": "We reserve the right to modify these Terms at any time. Changes will take effect upon publication in the Application. Your continued use of the Application after publication of changes constitutes your acceptance of these changes."
+    },
+    "section8": {
+      "title": "8. Termination",
+      "content": "We may suspend or terminate your access to the Application at any time, without notice, for any reason, including violation of these Terms."
+    },
+    "section9": {
+      "title": "9. Governing Law and Jurisdiction",
+      "content": "These Terms are governed by French law. Any dispute relating to the interpretation or performance hereof shall be subject to the exclusive jurisdiction of the French courts."
+    },
+    "section10": {
+      "title": "10. Contact",
+      "content": "For any questions regarding these Terms, please contact us at:"
+    }
+  },
+  "Privacy": {
+    "title": "Privacy Policy",
+    "lastUpdate": "Last updated: January 1, 2025",
+    "section1": {
+      "title": "1. Introduction",
+      "content": "Yoopi (\"we\", \"our\", \"us\") is committed to protecting the privacy of its users. This Privacy Policy explains how we collect, use, share, and protect your personal information when you use our mobile application (\"the Application\")."
+    },
+    "section2": {
+      "title": "2. Information We Collect",
+      "subtitle1": "2.1 Information You Provide",
+      "items1": [
+        "Email address (upon registration)",
+        "Travel preferences (departure airports, desired destinations)",
+        "Notification settings"
+      ],
+      "subtitle2": "2.2 Information Collected Automatically",
+      "items2": [
+        "Application usage data (pages viewed, features used)",
+        "Device information (model, operating system, unique identifiers)",
+        "Approximate location data (country, region) based on IP address",
+        "Performance and diagnostic information"
+      ]
+    },
+    "section3": {
+      "title": "3. How We Use Your Information",
+      "intro": "We use your information to:",
+      "items": [
+        "Provide and personalize our services",
+        "Send you price alerts and relevant notifications",
+        "Improve and optimize the Application",
+        "Analyze usage trends",
+        "Communicate with you regarding your account or our services",
+        "Prevent fraud and ensure security"
+      ]
+    },
+    "section4": {
+      "title": "4. Sharing Your Information",
+      "intro": "We do not sell your personal information. We may share your information in the following cases:",
+      "items": [
+        { "title": "Service providers:", "content": "with third parties who help us provide our services (hosting, analytics, notifications)" },
+        { "title": "Legal obligations:", "content": "if required by law or to protect our rights" },
+        { "title": "Business transfer:", "content": "in case of merger, acquisition, or sale of assets" }
+      ]
+    },
+    "section5": {
+      "title": "5. Data Security",
+      "content": "We implement appropriate technical and organizational security measures to protect your personal information against unauthorized access, modification, disclosure, or destruction."
+    },
+    "section6": {
+      "title": "6. Data Retention",
+      "content": "We retain your personal information for as long as necessary to provide our services and comply with our legal obligations. You may request deletion of your account and data at any time."
+    },
+    "section7": {
+      "title": "7. Your Rights",
+      "intro": "In accordance with GDPR and applicable laws, you have the following rights:",
+      "items": [
+        { "title": "Right of access:", "content": "obtain a copy of your personal data" },
+        { "title": "Right to rectification:", "content": "correct inaccurate data" },
+        { "title": "Right to erasure:", "content": "request deletion of your data" },
+        { "title": "Right to portability:", "content": "receive your data in a structured format" },
+        { "title": "Right to object:", "content": "object to the processing of your data" },
+        { "title": "Right to withdraw consent:", "content": "at any time for consent-based processing" }
+      ],
+      "contact": "To exercise these rights, contact us at"
+    },
+    "section8": {
+      "title": "8. Cookies and Similar Technologies",
+      "content": "The Application may use tracking technologies to improve your experience. You can manage your preferences in the Application settings."
+    },
+    "section9": {
+      "title": "9. International Transfers",
+      "content": "Your information may be transferred and processed in countries other than your country of residence. We ensure that appropriate safeguards are in place to protect your data."
+    },
+    "section10": {
+      "title": "10. Minors",
+      "content": "The Application is not intended for persons under 16 years of age. We do not knowingly collect personal information from minors."
+    },
+    "section11": {
+      "title": "11. Changes to This Policy",
+      "content": "We may update this Privacy Policy from time to time. We will notify you of any significant changes by notification in the Application or by email."
+    },
+    "section12": {
+      "title": "12. Contact",
+      "content": "For any questions regarding this Privacy Policy or to exercise your rights, contact us at:"
+    }
+  },
+  "Support": {
+    "title": "Support",
+    "subtitle": "Have a question? We're here to help.",
+    "contactTitle": "Contact Us",
+    "contactText": "Didn't find an answer to your question? Write to us directly.",
+    "faqTitle": "Frequently Asked Questions",
+    "faqs": [
+      {
+        "question": "How does Yoopi work?",
+        "answer": "Yoopi continuously scans flight prices from your favorite airports. As soon as a price drops by 30% or more, you receive a push notification. You can then book directly with the airline in just a few clicks."
+      },
+      {
+        "question": "Is Yoopi free?",
+        "answer": "The Yoopi app is free to download and use. We also offer premium features for frequent travelers."
+      },
+      {
+        "question": "How do I set up my alerts?",
+        "answer": "In the app, go to \"Settings\" then \"My airports\". You can add your favorite departure airports and preferred destinations. You'll then receive personalized alerts."
+      },
+      {
+        "question": "Why did the price change when I clicked on the deal?",
+        "answer": "Flight prices are very volatile and can change within minutes. We do our best to alert you as quickly as possible, but sometimes deals expire before you have time to book."
+      },
+      {
+        "question": "How do I turn off notifications?",
+        "answer": "You can manage your notifications in the app settings or directly in your phone's settings. We recommend keeping notifications on so you don't miss the best deals."
+      },
+      {
+        "question": "Does Yoopi sell my data?",
+        "answer": "No, we never sell your personal data. See our Privacy Policy for more details on how we protect your privacy."
+      },
+      {
+        "question": "How do I delete my account?",
+        "answer": "You can delete your account in the app settings. You can also contact us by email to request deletion of all your data."
+      }
+    ]
+  },
+  "LanguageSwitcher": {
+    "fr": "FR",
+    "en": "EN"
+  }
+}

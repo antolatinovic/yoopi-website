@@ -1,37 +1,36 @@
-import Image from 'next/image';
+'use client';
 
-const features = [
+import Image from 'next/image';
+import { useTranslations } from 'next-intl';
+
+const featuresData = [
   {
-    title: 'Jusqu\'a -80% sur tes vols',
-    description:
-      'On traque les baisses de prix en continu. Des que le tarif chute, tu es le premier alerte.',
+    key: 'feature1',
     image: '/feature-bloc2.png',
     icon: '/icon-deals.png',
   },
   {
-    title: 'Alertes instantanées',
-    description:
-      'Push notification des qu\'un vol chute sous -30%. Avant que le deal disparaisse.',
+    key: 'feature2',
     image: '/feature-bloc3.png',
     icon: '/icon-alerts.png',
   },
   {
-    title: 'Tous les prix au même endroit',
-    description:
-      'On compare les tarifs des plus grandes plateformes en temps réel. Tu obtiens le meilleur deal sans ouvrir 10 sites.',
+    key: 'feature3',
     image: '/feature-bloc4.png',
     icon: '/icon-compare.png',
   },
 ];
 
 export default function Features() {
+  const t = useTranslations('Features');
+
   return (
     <section className="py-20 md:py-28 overflow-hidden">
       <div className="max-w-7xl mx-auto px-6">
         <div className="space-y-32 md:space-y-48 lg:space-y-56">
-          {features.map((feature, index) => (
+          {featuresData.map((feature, index) => (
             <div
-              key={feature.title}
+              key={feature.key}
               className={`flex flex-col ${
                 index % 2 === 0 ? 'lg:flex-row' : 'lg:flex-row-reverse'
               } items-center gap-8 lg:gap-12`}
@@ -40,7 +39,7 @@ export default function Features() {
               <div className="w-full lg:w-1/2 flex justify-center">
                 <Image
                   src={feature.image}
-                  alt={feature.title}
+                  alt={t(`${feature.key}.title`)}
                   width={800}
                   height={1600}
                   className="w-[600px] md:w-[800px] lg:w-[900px] xl:w-[1000px] h-auto max-w-none"
@@ -62,11 +61,11 @@ export default function Features() {
                 )}
                 <h2 className="text-4xl md:text-5xl lg:text-6xl font-bold text-[#1A2332] leading-tight">
                   <span className="bg-[#1A2332]/5 px-2 -mx-2 box-decoration-clone">
-                    {feature.title}
+                    {t(`${feature.key}.title`)}
                   </span>
                 </h2>
                 <p className="mt-6 text-lg md:text-xl text-[#1A2332]/70 max-w-lg mx-auto lg:mx-0">
-                  {feature.description}
+                  {t(`${feature.key}.description`)}
                 </p>
               </div>
             </div>

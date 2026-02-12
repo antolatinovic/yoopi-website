@@ -1,0 +1,240 @@
+{
+  "Header": {
+    "download": "Télécharge Yoopi"
+  },
+  "Footer": {
+    "terms": "Conditions d'utilisation",
+    "privacy": "Politique de confidentialité",
+    "support": "Support",
+    "copyright": "© Yoopi 2025"
+  },
+  "Hero": {
+    "title1": "Voyage plus.",
+    "title2": "Paye moins.",
+    "description": "On scanne les vols depuis tes aéroports 24/7 et on t'alerte quand un prix chute de -30% ou plus. Tu réserves en un clic.",
+    "appStore": "Télécharger sur l'App Store",
+    "googlePlay": "Disponible sur Google Play"
+  },
+  "Features": {
+    "feature1": {
+      "title": "Jusqu'à -80% sur tes vols",
+      "description": "On traque les baisses de prix en continu. Dès que le tarif chute, tu es le premier alerté."
+    },
+    "feature2": {
+      "title": "Alertes instantanées",
+      "description": "Push notification dès qu'un vol chute sous -30%. Avant que le deal disparaisse."
+    },
+    "feature3": {
+      "title": "Tous les prix au même endroit",
+      "description": "On compare les tarifs des plus grandes plateformes en temps réel. Tu obtiens le meilleur deal sans ouvrir 10 sites."
+    }
+  },
+  "Metadata": {
+    "home": {
+      "title": "Yoopi - Voyage plus. Paye moins.",
+      "description": "Yoopi scanne les vols depuis tes aéroports 24/7 et t'alerte quand un prix chute. Réserve en un clic.",
+      "keywords": "vols pas chers, alertes vols, bons plans voyage, billets avion, promotion vols"
+    },
+    "terms": {
+      "title": "Conditions Générales d'Utilisation - Yoopi",
+      "description": "Conditions Générales d'Utilisation de l'application Yoopi"
+    },
+    "privacy": {
+      "title": "Politique de Confidentialité - Yoopi",
+      "description": "Politique de Confidentialité de l'application Yoopi"
+    },
+    "support": {
+      "title": "Support - Yoopi",
+      "description": "Besoin d'aide avec Yoopi ? Consultez notre FAQ ou contactez-nous."
+    }
+  },
+  "Terms": {
+    "title": "Conditions Générales d'Utilisation",
+    "lastUpdate": "Dernière mise à jour : 1er janvier 2025",
+    "section1": {
+      "title": "1. Acceptation des conditions",
+      "content": "En téléchargeant, installant ou utilisant l'application Yoopi (\"l'Application\"), vous acceptez d'être lié par les présentes Conditions Générales d'Utilisation (\"CGU\"). Si vous n'acceptez pas ces conditions, veuillez ne pas utiliser l'Application."
+    },
+    "section2": {
+      "title": "2. Description du service",
+      "intro": "Yoopi est une application mobile qui permet aux utilisateurs de :",
+      "items": [
+        "Recevoir des alertes sur les baisses de prix de vols",
+        "Consulter des offres de vols à prix réduits",
+        "Accéder à des liens de réservation auprès de compagnies aériennes tierces"
+      ],
+      "content": "Yoopi agit uniquement en tant qu'intermédiaire d'information et ne vend pas directement de billets d'avion. Toute réservation est effectuée directement auprès des compagnies aériennes ou agences de voyage partenaires."
+    },
+    "section3": {
+      "title": "3. Inscription et compte utilisateur",
+      "intro": "Pour utiliser certaines fonctionnalités de l'Application, vous devez créer un compte. Vous vous engagez à :",
+      "items": [
+        "Fournir des informations exactes et complètes",
+        "Maintenir la confidentialité de vos identifiants de connexion",
+        "Nous informer immédiatement de toute utilisation non autorisée de votre compte"
+      ]
+    },
+    "section4": {
+      "title": "4. Utilisation acceptable",
+      "intro": "Vous vous engagez à ne pas :",
+      "items": [
+        "Utiliser l'Application à des fins illégales",
+        "Tenter de contourner les mesures de sécurité de l'Application",
+        "Collecter des données d'autres utilisateurs sans leur consentement",
+        "Utiliser des robots ou des scripts automatisés pour accéder à l'Application"
+      ]
+    },
+    "section5": {
+      "title": "5. Propriété intellectuelle",
+      "content": "L'Application et tout son contenu (textes, graphiques, logos, icônes, images, clips audio, téléchargements numériques) sont la propriété de Yoopi ou de ses concédants de licence et sont protégés par les lois sur la propriété intellectuelle."
+    },
+    "section6": {
+      "title": "6. Limitation de responsabilité",
+      "content1": "Yoopi s'efforce de fournir des informations exactes sur les prix des vols. Cependant, nous ne garantissons pas l'exactitude, l'exhaustivité ou l'actualité des informations affichées. Les prix et disponibilités peuvent varier et sont sujets à modification par les compagnies aériennes sans préavis.",
+      "content2": "Yoopi ne saurait être tenu responsable de tout dommage direct, indirect, accessoire ou consécutif résultant de l'utilisation de l'Application."
+    },
+    "section7": {
+      "title": "7. Modifications des CGU",
+      "content": "Nous nous réservons le droit de modifier ces CGU à tout moment. Les modifications entreront en vigueur dès leur publication dans l'Application. Votre utilisation continue de l'Application après la publication des modifications constitue votre acceptation de ces modifications."
+    },
+    "section8": {
+      "title": "8. Résiliation",
+      "content": "Nous pouvons suspendre ou résilier votre accès à l'Application à tout moment, sans préavis, pour toute raison, y compris en cas de violation de ces CGU."
+    },
+    "section9": {
+      "title": "9. Droit applicable et juridiction",
+      "content": "Les présentes CGU sont régies par le droit français. Tout litige relatif à l'interprétation ou à l'exécution des présentes sera soumis à la compétence exclusive des tribunaux français."
+    },
+    "section10": {
+      "title": "10. Contact",
+      "content": "Pour toute question concernant ces CGU, veuillez nous contacter à :"
+    }
+  },
+  "Privacy": {
+    "title": "Politique de Confidentialité",
+    "lastUpdate": "Dernière mise à jour : 1er janvier 2025",
+    "section1": {
+      "title": "1. Introduction",
+      "content": "Yoopi (\"nous\", \"notre\", \"nos\") s'engage à protéger la vie privée de ses utilisateurs. Cette Politique de Confidentialité explique comment nous collectons, utilisons, partageons et protégeons vos informations personnelles lorsque vous utilisez notre application mobile (\"l'Application\")."
+    },
+    "section2": {
+      "title": "2. Informations que nous collectons",
+      "subtitle1": "2.1 Informations que vous nous fournissez",
+      "items1": [
+        "Adresse email (lors de l'inscription)",
+        "Préférences de voyage (aéroports de départ, destinations souhaitées)",
+        "Paramètres de notification"
+      ],
+      "subtitle2": "2.2 Informations collectées automatiquement",
+      "items2": [
+        "Données d'utilisation de l'Application (pages consultées, fonctionnalités utilisées)",
+        "Informations sur l'appareil (modèle, système d'exploitation, identifiants uniques)",
+        "Données de localisation approximative (pays, région) basées sur l'adresse IP",
+        "Informations de performance et de diagnostic"
+      ]
+    },
+    "section3": {
+      "title": "3. Comment nous utilisons vos informations",
+      "intro": "Nous utilisons vos informations pour :",
+      "items": [
+        "Fournir et personnaliser nos services",
+        "Vous envoyer des alertes de prix et des notifications pertinentes",
+        "Améliorer et optimiser l'Application",
+        "Analyser les tendances d'utilisation",
+        "Communiquer avec vous concernant votre compte ou nos services",
+        "Prévenir les fraudes et assurer la sécurité"
+      ]
+    },
+    "section4": {
+      "title": "4. Partage de vos informations",
+      "intro": "Nous ne vendons pas vos informations personnelles. Nous pouvons partager vos informations dans les cas suivants :",
+      "items": [
+        { "title": "Prestataires de services :", "content": "avec des tiers qui nous aident à fournir nos services (hébergement, analyses, notifications)" },
+        { "title": "Obligations légales :", "content": "si la loi l'exige ou pour protéger nos droits" },
+        { "title": "Transfert d'entreprise :", "content": "en cas de fusion, acquisition ou vente d'actifs" }
+      ]
+    },
+    "section5": {
+      "title": "5. Sécurité des données",
+      "content": "Nous mettons en œuvre des mesures de sécurité techniques et organisationnelles appropriées pour protéger vos informations personnelles contre l'accès non autorisé, la modification, la divulgation ou la destruction."
+    },
+    "section6": {
+      "title": "6. Conservation des données",
+      "content": "Nous conservons vos informations personnelles aussi longtemps que nécessaire pour fournir nos services et respecter nos obligations légales. Vous pouvez demander la suppression de votre compte et de vos données à tout moment."
+    },
+    "section7": {
+      "title": "7. Vos droits",
+      "intro": "Conformément au RGPD et aux lois applicables, vous disposez des droits suivants :",
+      "items": [
+        { "title": "Droit d'accès :", "content": "obtenir une copie de vos données personnelles" },
+        { "title": "Droit de rectification :", "content": "corriger vos données inexactes" },
+        { "title": "Droit à l'effacement :", "content": "demander la suppression de vos données" },
+        { "title": "Droit à la portabilité :", "content": "recevoir vos données dans un format structuré" },
+        { "title": "Droit d'opposition :", "content": "vous opposer au traitement de vos données" },
+        { "title": "Droit de retirer votre consentement :", "content": "à tout moment pour les traitements basés sur le consentement" }
+      ],
+      "contact": "Pour exercer ces droits, contactez-nous à"
+    },
+    "section8": {
+      "title": "8. Cookies et technologies similaires",
+      "content": "L'Application peut utiliser des technologies de suivi pour améliorer votre expérience. Vous pouvez gérer vos préférences dans les paramètres de l'Application."
+    },
+    "section9": {
+      "title": "9. Transferts internationaux",
+      "content": "Vos informations peuvent être transférées et traitées dans des pays autres que votre pays de résidence. Nous nous assurons que des garanties appropriées sont en place pour protéger vos données."
+    },
+    "section10": {
+      "title": "10. Mineurs",
+      "content": "L'Application n'est pas destinée aux personnes de moins de 16 ans. Nous ne collectons pas sciemment d'informations personnelles auprès de mineurs."
+    },
+    "section11": {
+      "title": "11. Modifications de cette politique",
+      "content": "Nous pouvons mettre à jour cette Politique de Confidentialité de temps à autre. Nous vous informerons de tout changement important par notification dans l'Application ou par email."
+    },
+    "section12": {
+      "title": "12. Contact",
+      "content": "Pour toute question concernant cette Politique de Confidentialité ou pour exercer vos droits, contactez-nous à :"
+    }
+  },
+  "Support": {
+    "title": "Support",
+    "subtitle": "Une question ? On est là pour t'aider.",
+    "contactTitle": "Contacte-nous",
+    "contactText": "Tu n'as pas trouvé de réponse à ta question ? Écris-nous directement.",
+    "faqTitle": "Questions fréquentes",
+    "faqs": [
+      {
+        "question": "Comment fonctionne Yoopi ?",
+        "answer": "Yoopi scanne en permanence les prix des vols depuis tes aéroports favoris. Dès qu'un prix chute de 30% ou plus, tu reçois une notification push. Tu peux ensuite réserver directement auprès de la compagnie aérienne en quelques clics."
+      },
+      {
+        "question": "Est-ce que Yoopi est gratuit ?",
+        "answer": "L'application Yoopi est gratuite à télécharger et à utiliser. Nous proposons également des fonctionnalités premium pour les voyageurs les plus assidus."
+      },
+      {
+        "question": "Comment configurer mes alertes ?",
+        "answer": "Dans l'application, va dans \"Paramètres\" puis \"Mes aéroports\". Tu peux y ajouter tes aéroports de départ favoris et tes destinations préférées. Tu recevras ensuite des alertes personnalisées."
+      },
+      {
+        "question": "Pourquoi le prix a changé quand j'ai cliqué sur le deal ?",
+        "answer": "Les prix des vols sont très volatils et peuvent changer en quelques minutes. Nous faisons de notre mieux pour t'alerter le plus rapidement possible, mais il arrive que les deals expirent avant que tu aies le temps de réserver."
+      },
+      {
+        "question": "Comment désactiver les notifications ?",
+        "answer": "Tu peux gérer tes notifications dans les paramètres de l'application ou directement dans les réglages de ton téléphone. Nous te recommandons de garder les notifications activées pour ne pas manquer les meilleurs deals."
+      },
+      {
+        "question": "Yoopi vend-il mes données ?",
+        "answer": "Non, nous ne vendons jamais tes données personnelles. Consulte notre Politique de Confidentialité pour plus de détails sur la façon dont nous protégeons ta vie privée."
+      },
+      {
+        "question": "Comment supprimer mon compte ?",
+        "answer": "Tu peux supprimer ton compte dans les paramètres de l'application. Tu peux également nous contacter par email pour demander la suppression de toutes tes données."
+      }
+    ]
+  },
+  "LanguageSwitcher": {
+    "fr": "FR",
+    "en": "EN"
+  }
+}

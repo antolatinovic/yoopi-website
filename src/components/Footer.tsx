@@ -1,7 +1,13 @@
+'use client';
+
 import Link from 'next/link';
 import Image from 'next/image';
+import { useLocale, useTranslations } from 'next-intl';
 
 export default function Footer() {
+  const t = useTranslations('Footer');
+  const locale = useLocale();
+
   return (
     <footer className="px-4 py-12">
       <div className="max-w-4xl mx-auto">
@@ -21,22 +27,22 @@ export default function Footer() {
 
             <nav className="flex flex-col items-center gap-4 mb-8">
               <Link
-                href="/terms"
+                href={`/${locale}/terms`}
                 className="text-[#1A2332]/60 hover:text-[#1A2332] transition-colors font-medium"
               >
-                Terms of Use
+                {t('terms')}
               </Link>
               <Link
-                href="/privacy"
+                href={`/${locale}/privacy`}
                 className="text-[#1A2332]/60 hover:text-[#1A2332] transition-colors font-medium"
               >
-                Privacy Policy
+                {t('privacy')}
               </Link>
               <Link
-                href="/support"
+                href={`/${locale}/support`}
                 className="text-[#1A2332]/60 hover:text-[#1A2332] transition-colors font-medium"
               >
-                Support
+                {t('support')}
               </Link>
             </nav>
 
@@ -47,9 +53,7 @@ export default function Footer() {
               contact@yoopi.app
             </a>
 
-            <p className="text-[#1A2332]/40 text-sm">
-              &copy; Yoopi 2025
-            </p>
+            <p className="text-[#1A2332]/40 text-sm">{t('copyright')}</p>
           </div>
         </div>
       </div>
