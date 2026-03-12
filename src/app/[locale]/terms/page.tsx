@@ -117,10 +117,10 @@ export default async function TermsPage({
             <p className="text-[#1A2332]/70 mb-4">
               {t('section10.content')}{' '}
               <a
-                href="mailto:contact@yoopi.app"
+                href="mailto:contact@yoopi-app.com"
                 className="text-[#1A2332] underline hover:underline"
               >
-                contact@yoopi.app
+                contact@yoopi-app.com
               </a>
             </p>
           </section>

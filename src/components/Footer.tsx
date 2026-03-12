@@ -1,12 +1,11 @@
 'use client';
 
-import Link from 'next/link';
 import Image from 'next/image';
-import { useLocale, useTranslations } from 'next-intl';
+import { useTranslations } from 'next-intl';
+import { Link } from '@/i18n/routing';
 
 export default function Footer() {
   const t = useTranslations('Footer');
-  const locale = useLocale();
 
   return (
     <footer className="px-4 py-12">
@@ -27,19 +26,19 @@ export default function Footer() {
 
             <nav className="flex flex-col items-center gap-4 mb-8">
               <Link
-                href={`/${locale}/terms`}
+                href="/terms"
                 className="text-[#1A2332]/60 hover:text-[#1A2332] transition-colors font-medium"
               >
                 {t('terms')}
               </Link>
               <Link
-                href={`/${locale}/privacy`}
+                href="/privacy"
                 className="text-[#1A2332]/60 hover:text-[#1A2332] transition-colors font-medium"
               >
                 {t('privacy')}
               </Link>
               <Link
-                href={`/${locale}/support`}
+                href="/support"
                 className="text-[#1A2332]/60 hover:text-[#1A2332] transition-colors font-medium"
               >
                 {t('support')}
@@ -47,10 +46,10 @@ export default function Footer() {
             </nav>
 
             <a
-              href="mailto:contact@yoopi.app"
+              href="mailto:contact@yoopi-app.com"
               className="text-[#1A2332]/50 hover:text-[#1A2332] transition-colors mb-8"
             >
-              contact@yoopi.app
+              contact@yoopi-app.com
             </a>
 
             <p className="text-[#1A2332]/40 text-sm">{t('copyright')}</p>

@@ -118,10 +118,10 @@ export default async function PrivacyPage({
             <p className="text-[#1A2332]/70 mb-4">
               {t('section7.contact')}{' '}
               <a
-                href="mailto:contact@yoopi.app"
+                href="mailto:contact@yoopi-app.com"
                 className="text-[#1A2332] underline hover:underline"
               >
-                contact@yoopi.app
+                contact@yoopi-app.com
               </a>
             </p>
           </section>
@@ -161,10 +161,10 @@ export default async function PrivacyPage({
             <p className="text-[#1A2332]/70 mb-4">
               {t('section12.content')}{' '}
               <a
-                href="mailto:contact@yoopi.app"
+                href="mailto:contact@yoopi-app.com"
                 className="text-[#1A2332] underline hover:underline"
               >
-                contact@yoopi.app
+                contact@yoopi-app.com
               </a>
             </p>
           </section>

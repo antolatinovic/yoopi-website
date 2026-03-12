@@ -37,7 +37,7 @@ export default async function SupportPage({
             </h2>
             <p className="text-[#1A2332]/70 mb-4">{t('contactText')}</p>
             <a
-              href="mailto:contact@yoopi.app"
+              href="mailto:contact@yoopi-app.com"
               className="inline-flex items-center gap-2 bg-[#1A2332] hover:bg-[#1A2332]/80 text-white font-semibold px-6 py-3 rounded-full transition-colors duration-200"
             >
               <svg
@@ -53,7 +53,7 @@ export default async function SupportPage({
                   d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"
                 />
               </svg>
-              contact@yoopi.app
+              contact@yoopi-app.com
             </a>
           </div>
         </section>
