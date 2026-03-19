@@ -2,12 +2,19 @@
 
 import { useState } from 'react';
 import { useTranslations } from 'next-intl';
-import { createClient } from '@supabase/supabase-js';
+import { createClient, SupabaseClient } from '@supabase/supabase-js';
 
-const supabase = createClient(
-  process.env.NEXT_PUBLIC_SUPABASE_URL!,
-  process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY!
-);
+let supabase: SupabaseClient;
+
+function getSupabase() {
+  if (!supabase) {
+    supabase = createClient(
+      process.env.NEXT_PUBLIC_SUPABASE_URL!,
+      process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY!
+    );
+  }
+  return supabase;
+}
 
 type Step = 'login' | 'confirm' | 'success';
 
@@ -26,7 +33,7 @@ export default function DeleteAccountPage() {
     setError('');
 
     try {
-      const { data, error: authError } = await supabase.auth.signInWithPassword({
+      const { data, error: authError } = await getSupabase().auth.signInWithPassword({
         email,
         password,
       });
