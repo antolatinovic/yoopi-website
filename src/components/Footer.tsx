@@ -43,6 +43,12 @@ export default function Footer() {
               >
                 {t('support')}
               </Link>
+              <Link
+                href="/delete-account"
+                className="text-[#1A2332]/60 hover:text-[#1A2332] transition-colors font-medium"
+              >
+                {t('deleteAccount')}
+              </Link>
             </nav>
 
             <a

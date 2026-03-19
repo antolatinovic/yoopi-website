@@ -3,9 +3,10 @@
     "download": "Télécharge Yoopi"
   },
   "Footer": {
-    "terms": "Conditions d'utilisation",
+    "terms": "CGV",
     "privacy": "Politique de confidentialité",
     "support": "Support",
+    "deleteAccount": "Supprimer mon compte",
     "copyright": "© Yoopi 2025"
   },
   "Hero": {
@@ -36,8 +37,8 @@
       "keywords": "vols pas chers, alertes vols, bons plans voyage, billets avion, promotion vols"
     },
     "terms": {
-      "title": "Conditions Générales d'Utilisation - Yoopi",
-      "description": "Conditions Générales d'Utilisation de l'application Yoopi"
+      "title": "Conditions Générales de Vente - Yoopi",
+      "description": "Conditions Générales de Vente de l'application Yoopi"
     },
     "privacy": {
       "title": "Politique de Confidentialité - Yoopi",
@@ -46,73 +47,144 @@
     "support": {
       "title": "Support - Yoopi",
       "description": "Besoin d'aide avec Yoopi ? Consultez notre FAQ ou contactez-nous."
+    },
+    "deleteAccount": {
+      "title": "Supprimer mon compte - Yoopi",
+      "description": "Supprimez votre compte Yoopi et toutes vos données personnelles."
     }
   },
   "Terms": {
-    "title": "Conditions Générales d'Utilisation",
-    "lastUpdate": "Dernière mise à jour : 1er janvier 2025",
+    "title": "Conditions Générales de Vente",
+    "lastUpdate": "Dernière mise à jour : 19 mars 2026",
     "section1": {
-      "title": "1. Acceptation des conditions",
-      "content": "En téléchargeant, installant ou utilisant l'application Yoopi (\"l'Application\"), vous acceptez d'être lié par les présentes Conditions Générales d'Utilisation (\"CGU\"). Si vous n'acceptez pas ces conditions, veuillez ne pas utiliser l'Application."
+      "title": "1. Objet",
+      "content1": "Les présentes Conditions Générales de Vente (ci-après « CGV ») régissent l'utilisation de l'application mobile Yoopi (ci-après « l'Application ») éditée par Yoopi (ci-après « nous », « notre », « nos »).",
+      "content2": "L'Application est un service de détection et d'alerte de bons plans sur les vols aériens. Elle compare les prix des vols en temps réel et notifie les utilisateurs lorsqu'un tarif anormalement bas est détecté.",
+      "content3": "En utilisant l'Application, vous acceptez sans réserve les présentes CGV."
     },
     "section2": {
-      "title": "2. Description du service",
-      "intro": "Yoopi est une application mobile qui permet aux utilisateurs de :",
+      "title": "2. Accès au service",
+      "intro": "L'accès à l'Application nécessite :",
       "items": [
-        "Recevoir des alertes sur les baisses de prix de vols",
-        "Consulter des offres de vols à prix réduits",
-        "Accéder à des liens de réservation auprès de compagnies aériennes tierces"
+        "Un appareil mobile compatible (iOS ou Android)",
+        "Une connexion internet",
+        "La création d'un compte utilisateur (adresse email requise)"
       ],
-      "content": "Yoopi agit uniquement en tant qu'intermédiaire d'information et ne vend pas directement de billets d'avion. Toute réservation est effectuée directement auprès des compagnies aériennes ou agences de voyage partenaires."
+      "content": "L'utilisateur s'engage à fournir des informations exactes lors de son inscription et à maintenir la confidentialité de ses identifiants de connexion."
     },
     "section3": {
-      "title": "3. Inscription et compte utilisateur",
-      "intro": "Pour utiliser certaines fonctionnalités de l'Application, vous devez créer un compte. Vous vous engagez à :",
-      "items": [
-        "Fournir des informations exactes et complètes",
-        "Maintenir la confidentialité de vos identifiants de connexion",
-        "Nous informer immédiatement de toute utilisation non autorisée de votre compte"
-      ]
+      "title": "3. Offres et tarification",
+      "intro": "2 formules sont proposées :",
+      "freeTitle": "3.1 Offre Gratuite",
+      "freeItems": [
+        "Consultation de tous les deals de vols",
+        "Accès limité : le détail des offres et les liens de réservation sont réservés aux abonnés Premium"
+      ],
+      "premiumTitle": "3.2 Offre Premium",
+      "premiumItems": [
+        "Accès complet aux détails des offres et aux liens de réservation",
+        "Alertes push en temps réel",
+        "Destinations favorites (jusqu'à 5)",
+        "Accès prioritaire aux deals (1h d'avance)",
+        "Tous les aéroports de départ"
+      ],
+      "pricingTitle": "Tarifs :",
+      "pricingItems": [
+        "Abonnement à vie : 79,99 €",
+        "Abonnement mensuel : 19,99 €/mois"
+      ],
+      "pricingNote": "Les prix sont indiqués en euros TTC. Ils peuvent être affichés dans d'autres devises à titre indicatif."
     },
     "section4": {
-      "title": "4. Utilisation acceptable",
-      "intro": "Vous vous engagez à ne pas :",
-      "items": [
-        "Utiliser l'Application à des fins illégales",
-        "Tenter de contourner les mesures de sécurité de l'Application",
-        "Collecter des données d'autres utilisateurs sans leur consentement",
-        "Utiliser des robots ou des scripts automatisés pour accéder à l'Application"
-      ]
+      "title": "4. Modalités de paiement",
+      "content": "Les paiements sont effectués exclusivement via l'App Store (Apple) ou le Google Play Store (Google), selon votre appareil. Aucun paiement n'est traité directement par Yoopi.",
+      "renewalTitle": "4.1 Renouvellement automatique",
+      "renewalContent1": "L'abonnement mensuel (19,99 €/mois) se renouvelle automatiquement. Votre compte est débité dans les 24 heures précédant la fin de la période en cours, au tarif de l'abonnement choisi.",
+      "renewalContent2": "L'abonnement à vie (79,99 €) est un achat unique sans renouvellement.",
+      "cancelTitle": "4.2 Comment annuler votre abonnement",
+      "cancelIntro": "Vous pouvez annuler votre abonnement à tout moment. L'annulation prend effet à la fin de la période en cours (vous conservez l'accès jusqu'à cette date).",
+      "cancelIosTitle": "Sur iPhone / iPad :",
+      "cancelIosItems": [
+        "Ouvrez Réglages > [votre nom] > Abonnements",
+        "Sélectionnez Yoopi",
+        "Appuyez sur Annuler l'abonnement"
+      ],
+      "cancelAndroidTitle": "Sur Android :",
+      "cancelAndroidItems": [
+        "Ouvrez le Google Play Store > Menu > Abonnements",
+        "Sélectionnez Yoopi",
+        "Appuyez sur Annuler l'abonnement"
+      ],
+      "refundNote": "Les demandes de remboursement doivent être adressées directement à Apple ou Google, conformément à leurs politiques respectives."
     },
     "section5": {
-      "title": "5. Propriété intellectuelle",
-      "content": "L'Application et tout son contenu (textes, graphiques, logos, icônes, images, clips audio, téléchargements numériques) sont la propriété de Yoopi ou de ses concédants de licence et sont protégés par les lois sur la propriété intellectuelle."
+      "title": "5. Droit de rétractation",
+      "content1": "Conformément à l'article L.221-28 du Code de la consommation, le droit de rétractation ne s'applique pas aux achats de contenus numériques non fournis sur un support matériel dont l'exécution a commencé avec l'accord du consommateur.",
+      "content2": "Les demandes de remboursement doivent être adressées directement à Apple ou Google, conformément à leurs politiques respectives."
     },
     "section6": {
-      "title": "6. Limitation de responsabilité",
-      "content1": "Yoopi s'efforce de fournir des informations exactes sur les prix des vols. Cependant, nous ne garantissons pas l'exactitude, l'exhaustivité ou l'actualité des informations affichées. Les prix et disponibilités peuvent varier et sont sujets à modification par les compagnies aériennes sans préavis.",
-      "content2": "Yoopi ne saurait être tenu responsable de tout dommage direct, indirect, accessoire ou consécutif résultant de l'utilisation de l'Application."
+      "title": "6. Contenu et deals",
+      "intro": "Les prix des vols affichés dans l'Application sont fournis à titre indicatif et proviennent de sources tierces (compagnies aériennes et plateformes de réservation).",
+      "disclaimerIntro": "Yoopi ne garantit pas :",
+      "disclaimerItems": [
+        "L'exactitude ou la disponibilité des prix affichés",
+        "La disponibilité des vols au moment de la réservation",
+        "Le maintien des tarifs dits « error fares » par les compagnies aériennes"
+      ],
+      "note": "Les prix peuvent évoluer entre le moment de la détection et celui de la réservation. L'utilisateur est invité à vérifier le prix final directement sur la plateforme de réservation."
     },
     "section7": {
-      "title": "7. Modifications des CGU",
-      "content": "Nous nous réservons le droit de modifier ces CGU à tout moment. Les modifications entreront en vigueur dès leur publication dans l'Application. Votre utilisation continue de l'Application après la publication des modifications constitue votre acceptation de ces modifications."
+      "title": "7. Propriété intellectuelle",
+      "content1": "L'ensemble des éléments de l'Application (marque, logo, textes, graphismes, logiciels) sont la propriété exclusive de Yoopi ou de ses partenaires et sont protégés par les lois relatives à la propriété intellectuelle.",
+      "content2": "Toute reproduction, représentation ou exploitation non autorisée est interdite."
     },
     "section8": {
-      "title": "8. Résiliation",
-      "content": "Nous pouvons suspendre ou résilier votre accès à l'Application à tout moment, sans préavis, pour toute raison, y compris en cas de violation de ces CGU."
+      "title": "8. Responsabilité",
+      "content1": "Yoopi agit en tant qu'intermédiaire d'information et ne vend pas de billets d'avion.",
+      "content2": "En cliquant sur un lien de réservation, l'utilisateur est redirigé vers une plateforme tierce partenaire (via des liens d'affiliation). La transaction s'effectue directement entre l'utilisateur et ladite plateforme.",
+      "disclaimerIntro": "Yoopi ne saurait être tenu responsable :",
+      "disclaimerItems": [
+        "Des conditions de vente appliquées par les plateformes partenaires",
+        "Des annulations, modifications ou problèmes liés à une réservation",
+        "Des erreurs tarifaires publiées par les compagnies aériennes",
+        "De toute interruption temporaire du service"
+      ]
     },
     "section9": {
-      "title": "9. Droit applicable et juridiction",
-      "content": "Les présentes CGU sont régies par le droit français. Tout litige relatif à l'interprétation ou à l'exécution des présentes sera soumis à la compétence exclusive des tribunaux français."
+      "title": "9. Données personnelles",
+      "content": "Le traitement de vos données personnelles est régi par notre Politique de Confidentialité, accessible depuis l'Application. Pour toute question relative à vos données, contactez-nous à contact@yoopi-app.com"
     },
     "section10": {
-      "title": "10. Contact",
-      "content": "Pour toute question concernant ces CGU, veuillez nous contacter à :"
+      "title": "10. Modification des CGV",
+      "content1": "Nous nous réservons le droit de modifier les présentes CGV à tout moment. Les modifications entrent en vigueur dès leur publication dans l'Application.",
+      "content2": "L'utilisation continue de l'Application après modification vaut acceptation des nouvelles CGV.",
+      "content3": "En cas de modification substantielle, les utilisateurs seront informés par notification ou par email."
+    },
+    "section11": {
+      "title": "11. Droit applicable",
+      "content1": "Les présentes CGV sont soumises au droit français.",
+      "content2": "En cas de litige, les parties s'efforceront de trouver une solution amiable. À défaut, les tribunaux français compétents seront saisis.",
+      "content3": "Conformément aux dispositions du Code de la consommation, l'utilisateur peut recourir gratuitement au service de médiation de la consommation."
+    },
+    "section12": {
+      "title": "12. Contact",
+      "content": "Pour toute question concernant les présentes CGV, contactez-nous à :"
+    },
+    "section13": {
+      "title": "13. Mentions légales",
+      "items": [
+        "Éditeur : Yoopi — Entreprise individuelle",
+        "SIREN : 915 351 035",
+        "Siège social : 48 rue d'Aligre, 75012 Paris, France",
+        "Directeur de la publication : Antonin Music",
+        "Hébergeur : Supabase Inc. — 970 Toa Payoh North #07-11, Singapour 318992",
+        "Contact : contact@yoopi-app.com"
+      ]
     }
   },
   "Privacy": {
     "title": "Politique de Confidentialité",
-    "lastUpdate": "Dernière mise à jour : 1er janvier 2025",
+    "lastUpdate": "Dernière mise à jour : 19 mars 2026",
     "section1": {
       "title": "1. Introduction",
       "content": "Yoopi (\"nous\", \"notre\", \"nos\") s'engage à protéger la vie privée de ses utilisateurs. Cette Politique de Confidentialité explique comment nous collectons, utilisons, partageons et protégeons vos informations personnelles lorsque vous utilisez notre application mobile (\"l'Application\")."
@@ -147,9 +219,17 @@
     },
     "section4": {
       "title": "4. Partage de vos informations",
-      "intro": "Nous ne vendons pas vos informations personnelles. Nous pouvons partager vos informations dans les cas suivants :",
-      "items": [
-        { "title": "Prestataires de services :", "content": "avec des tiers qui nous aident à fournir nos services (hébergement, analyses, notifications)" },
+      "intro": "Nous ne vendons pas vos informations personnelles. Nous pouvons partager vos informations avec les prestataires suivants, strictement nécessaires au fonctionnement du service :",
+      "providersTitle": "4.1 Prestataires de services",
+      "providers": [
+        { "title": "Supabase (Supabase Inc.) :", "content": "hébergement de la base de données, authentification des comptes utilisateurs, stockage sécurisé des données" },
+        { "title": "RevenueCat (RevenueCat Inc.) :", "content": "gestion des abonnements et des achats intégrés (in-app purchases)" },
+        { "title": "Tenjin (Tenjin Inc.) :", "content": "analyses d'attribution marketing et mesure de performance des campagnes publicitaires" },
+        { "title": "Google Sign-In (Google LLC) :", "content": "authentification via votre compte Google, lorsque vous choisissez cette méthode de connexion" },
+        { "title": "Apple Sign-In (Apple Inc.) :", "content": "authentification via votre identifiant Apple, lorsque vous choisissez cette méthode de connexion" }
+      ],
+      "otherTitle": "4.2 Autres cas de partage",
+      "otherItems": [
         { "title": "Obligations légales :", "content": "si la loi l'exige ou pour protéger nos droits" },
         { "title": "Transfert d'entreprise :", "content": "en cas de fusion, acquisition ou vente d'actifs" }
       ]
@@ -163,7 +243,7 @@
       "content": "Nous conservons vos informations personnelles aussi longtemps que nécessaire pour fournir nos services et respecter nos obligations légales. Vous pouvez demander la suppression de votre compte et de vos données à tout moment."
     },
     "section7": {
-      "title": "7. Vos droits",
+      "title": "7. Vos droits (RGPD)",
       "intro": "Conformément au RGPD et aux lois applicables, vous disposez des droits suivants :",
       "items": [
         { "title": "Droit d'accès :", "content": "obtenir une copie de vos données personnelles" },
@@ -176,25 +256,58 @@
       "contact": "Pour exercer ces droits, contactez-nous à"
     },
     "section8": {
-      "title": "8. Cookies et technologies similaires",
-      "content": "L'Application peut utiliser des technologies de suivi pour améliorer votre expérience. Vous pouvez gérer vos préférences dans les paramètres de l'Application."
+      "title": "8. Droits des résidents californiens (CCPA)",
+      "intro": "Si vous résidez en Californie, le California Consumer Privacy Act (CCPA) vous confère des droits supplémentaires :",
+      "items": [
+        { "title": "Droit de savoir :", "content": "vous pouvez demander quelles données personnelles nous collectons, utilisons et partageons" },
+        { "title": "Droit de suppression :", "content": "vous pouvez demander la suppression de vos données personnelles" },
+        { "title": "Droit de refuser la vente :", "content": "nous ne vendons pas vos données personnelles à des tiers" },
+        { "title": "Non-discrimination :", "content": "nous ne vous pénaliserons pas pour l'exercice de vos droits CCPA" }
+      ],
+      "contact": "Pour exercer ces droits, contactez-nous à"
     },
     "section9": {
-      "title": "9. Transferts internationaux",
-      "content": "Vos informations peuvent être transférées et traitées dans des pays autres que votre pays de résidence. Nous nous assurons que des garanties appropriées sont en place pour protéger vos données."
+      "title": "9. Cookies et technologies similaires",
+      "content": "L'Application peut utiliser des technologies de suivi pour améliorer votre expérience. Vous pouvez gérer vos préférences dans les paramètres de l'Application."
     },
     "section10": {
-      "title": "10. Mineurs",
-      "content": "L'Application n'est pas destinée aux personnes de moins de 16 ans. Nous ne collectons pas sciemment d'informations personnelles auprès de mineurs."
+      "title": "10. Transferts internationaux",
+      "content": "Vos informations peuvent être transférées et traitées dans des pays autres que votre pays de résidence. Nous nous assurons que des garanties appropriées sont en place pour protéger vos données."
     },
     "section11": {
-      "title": "11. Modifications de cette politique",
-      "content": "Nous pouvons mettre à jour cette Politique de Confidentialité de temps à autre. Nous vous informerons de tout changement important par notification dans l'Application ou par email."
+      "title": "11. Mineurs",
+      "content": "L'Application n'est pas destinée aux personnes de moins de 16 ans. Nous ne collectons pas sciemment d'informations personnelles auprès de mineurs."
     },
     "section12": {
-      "title": "12. Contact",
+      "title": "12. Modifications de cette politique",
+      "content": "Nous pouvons mettre à jour cette Politique de Confidentialité de temps à autre. Nous vous informerons de tout changement important par notification dans l'Application ou par email."
+    },
+    "section13": {
+      "title": "13. Contact",
       "content": "Pour toute question concernant cette Politique de Confidentialité ou pour exercer vos droits, contactez-nous à :"
     }
+  },
+  "DeleteAccount": {
+    "title": "Supprimer mon compte",
+    "description": "Entrez vos identifiants pour supprimer définitivement votre compte Yoopi et toutes vos données.",
+    "emailLabel": "Adresse email",
+    "emailPlaceholder": "votre@email.com",
+    "passwordLabel": "Mot de passe",
+    "passwordPlaceholder": "Votre mot de passe",
+    "loginButton": "Se connecter",
+    "loginLoading": "Connexion...",
+    "deleteButton": "Supprimer mon compte",
+    "deleteLoading": "Suppression en cours...",
+    "confirmTitle": "Êtes-vous sûr ?",
+    "confirmMessage": "Cette action est irréversible. Toutes vos données seront définitivement supprimées, y compris vos préférences, alertes et historique.",
+    "confirmButton": "Oui, supprimer mon compte",
+    "cancelButton": "Annuler",
+    "successTitle": "Compte supprimé",
+    "successMessage": "Votre compte et toutes vos données ont été supprimés.",
+    "errorLogin": "Identifiants incorrects. Veuillez réessayer.",
+    "errorDelete": "Une erreur est survenue lors de la suppression. Veuillez réessayer ou nous contacter à contact@yoopi-app.com",
+    "loggedInAs": "Connecté en tant que",
+    "warning": "Attention : cette action est définitive et irréversible."
   },
   "Support": {
     "title": "Support",
@@ -229,7 +342,7 @@
       },
       {
         "question": "Comment supprimer mon compte ?",
-        "answer": "Tu peux supprimer ton compte dans les paramètres de l'application. Tu peux également nous contacter par email pour demander la suppression de toutes tes données."
+        "answer": "Tu peux supprimer ton compte dans les paramètres de l'application ou via notre page de suppression de compte sur le site web. Tu peux également nous contacter par email pour demander la suppression de toutes tes données."
       }
     ]
   },
